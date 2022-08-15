@@ -1,0 +1,37 @@
+{
+    "planos": [
+        {
+            "id": 1,
+            "name": "Free",
+            "price": "R$ 0,00",
+            "discountprice": "R$ 0,00",
+            "repositories": "2 repositories",
+            "members": "5 members",
+            "storage": "10GB storage",
+            "support": "ChatBot support",
+            "buttontext": "Get Started"
+        },
+        {
+            "id": 2,
+            "name": "Pro",
+            "price": "R$ 119,88",
+            "discountprice": "R$ 101,90",
+            "repositories": "10 repositories",
+            "members": "15 members",
+            "storage": "50GB storage",
+            "support": "24/7 support",
+            "buttontext": "Try it Now"
+        },
+        {
+            "id": 3,
+            "name": "Plus",
+            "price": "R$ 599,88",
+            "discountprice": "R$ 509,90",
+            "repositories": "Unlimited repositories",
+            "members": "Unlimited members",
+            "storage": "10TB storage",
+            "support": "24/7 support",
+            "buttontext": "Try it Now"
+        }
+    ]
+}
